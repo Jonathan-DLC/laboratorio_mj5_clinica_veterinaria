@@ -1,0 +1,6 @@
+# Archivos locales de IntelliJ y resultados de compilación.
+.idea/
+*.iml
+out/
+*.class
+
